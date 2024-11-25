@@ -1,0 +1,7 @@
+
+
+chsve api: AIzaSyBKTJ86MFvle7z5bRa_thu_ccNMMdHuIBI
+email: imersaonode
+senha: node
+
+mongodb+srv://imersaonode:node@cluster0.zcs0k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
